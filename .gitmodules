@@ -1,0 +1,6 @@
+[submodule "src/Project-Structure-Project-1"]
+	path = src/Project-Structure-Project-1
+	url = https://github.com/mrjamiebowman-blog/Project-Structure-Project-1.git
+[submodule "src/Project-Structure-Project-2"]
+	path = src/Project-Structure-Project-2
+	url = https://github.com/mrjamiebowman-blog/Project-Structure-Project-2.git
